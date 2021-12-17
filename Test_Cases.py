@@ -1,6 +1,6 @@
 
 class Test_Section:
-    _section_number = 0
+    _section_number = 0 
 
     def __init__(self, section_name):
         self.section_name = section_name
